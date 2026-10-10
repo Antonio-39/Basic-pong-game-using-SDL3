@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\anton\Desktop\randomProjects\sdl_solution\sdl_project\GameState.h(1,13): warning C4081: expected 'newline'; found ';'
+  (compiling source file 'Source.cpp')
+  
+  sdl_project.vcxproj -> C:\Users\anton\Desktop\randomProjects\sdl_solution\x64\Debug\sdl_project.exe
